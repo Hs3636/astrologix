@@ -1,6 +1,7 @@
 # Horoscope Bot
 
 A simple Telegram bot that provides daily horoscopes for various zodiac signs. This bot uses inline buttons for users to select their zodiac sign and preferred day (TODAY, TOMORROW, or YESTERDAY), and fetches horoscope data from an external API.
+
 **Access Link:** [@astrologix_horoscope_bot](https://t.me/astrologix_horoscope_bot)
 
 ## Features
